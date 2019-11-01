@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1572490463 source:c:\users\mi\desktop\lab 04\unsortedtype.cpp
+	"UnsortedType.h"
+	"studentInfo.h"
+
+1572489447 c:\users\mi\desktop\lab 04\unsortedtype.h
+
+1572625899 source:c:\users\mi\desktop\lab 04\main.cpp
+	<iostream>
+	<string>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1572490463 c:\users\mi\desktop\lab 04\unsortedtype.cpp
+	"UnsortedType.h"
+	"studentInfo.h"
+
+1572625553 source:c:\users\mi\desktop\lab 04\studentinfo.cpp
+	"studentInfo.h"
+
+1572622276 c:\users\mi\desktop\lab 04\studentinfo.h
+	<iostream>
+	<string>
+
+1572490555 c:\users\mi\desktop\lab 04\studentinfo.cpp
+	"studentInfo.h"
+
