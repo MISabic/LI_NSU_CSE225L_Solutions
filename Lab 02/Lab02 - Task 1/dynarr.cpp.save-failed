@@ -6,7 +6,7 @@ using namespace std;
 template<class T>
 dynArr<T>::dynArr(int s)
 {
-    data = new T[s];
+    data = new int[s];
     size = s;
 }
 
@@ -17,23 +17,13 @@ dynArr<T>::~dynArr()
 }
 
 template<class T>
-T dynArr<T>::getValue(int index)
+int dynArr<T>::getValue(int index)
 {
     return data[index];
 }
 
 template<class T>
-void dynArr<T>::setValue(int index, T value)
+void dynArr<T>::setValue(int index, int value)
 {
     data[index] = value;
 }
-
-template<class T>
-void dynArr<T>::print()
-{
-    for(int i=0; i<size; i++)
-    {
-        cout << data[i] << endl;
-    }
-}
-

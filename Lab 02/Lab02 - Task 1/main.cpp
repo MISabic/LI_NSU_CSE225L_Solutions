@@ -1,22 +1,22 @@
 #include <iostream>
 #include "dynarr.h"
+#include "dynarr.cpp"
 
 using namespace std;
 
 int main()
 {
-    dynArr dArray1;
-    dynArr dArray2(5);
+    dynArr <char> dArray(5);
 
     for(int i=0; i<5; i++)
     {
-        int n;
+        char n;
         cin >> n;
 
-        dArray2.setValue(i, n);
+        dArray.setValue(i, n);
     }
 
-    dArray2.print();
+    dArray.print();
 
     return 0;
 }
