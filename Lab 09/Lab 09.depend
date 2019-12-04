@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1575472716 source:c:\users\mi\desktop\lab 09\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1575472672 c:\users\mi\desktop\lab 09\quetype.h
+
+1575477309 source:c:\users\mi\desktop\lab 09\main.cpp
+	<iostream>
+	<algorithm>
+	"quetype.h"
+	"quetype.cpp"
+
+1575472716 c:\users\mi\desktop\lab 09\quetype.cpp
+	"quetype.h"
+	<iostream>
+
