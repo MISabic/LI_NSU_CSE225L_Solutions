@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\lib 602\desktop\exam1\lab 15\main.cpp
+	<iostream>
+
+1576418321 source:c:\users\lib 602\desktop\exam1\lab 15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1576417782 c:\users\lib 602\desktop\exam1\lab 15\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1576416631 c:\users\lib 602\desktop\exam1\lab 15\stacktype.h
+
+1576416709 c:\users\lib 602\desktop\exam1\lab 15\quetype.h
+
+1576416667 c:\users\lib 602\desktop\exam1\lab 15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1576416747 c:\users\lib 602\desktop\exam1\lab 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576416747 source:c:\users\lib 602\desktop\exam1\lab 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576416667 source:c:\users\lib 602\desktop\exam1\lab 15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1576470274 source:c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1576470366 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1576368292 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\stacktype.h
+
+1576368290 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\quetype.h
+
+1576368290 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1576368290 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576368290 source:c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576368290 source:c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1576470466 source:c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\main.cpp
+	<iostream>
+	"stacktype.h"
+	"quetype.h"
+	"graphtype.h"
+	"graphtype.cpp"
+
+1576470543 c:\users\mi\downloads\225 lab 5-20191215t163307z-001\225 lab 5\lab 15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+

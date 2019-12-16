@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1576454431 source:c:\users\lib-605\desktop\225 lab 5\lab 13\main.cpp
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+	"quetype.h"
+	<iostream>
+
+1576452157 source:c:\users\lib-605\desktop\225 lab 5\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576451939 c:\users\lib-605\desktop\225 lab 5\lab 13\binarysearchtree.h
+	"quetype.h"
+
+1576452249 c:\users\lib-605\desktop\225 lab 5\lab 13\quetype.h
+
+1576452293 c:\users\lib-605\desktop\225 lab 5\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576452293 source:c:\users\lib-605\desktop\225 lab 5\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576452157 c:\users\lib-605\desktop\225 lab 5\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576357410 source:c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576357412 c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\binarysearchtree.h
+	"quetype.h"
+
+1576357412 c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\quetype.h
+
+1576357412 c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576357412 source:c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576458487 source:c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\main.cpp
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+	"quetype.h"
+	<iostream>
+
+1576357410 c:\users\lib-605\downloads\lab 13-20191215t114123z-001\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576361944 source:c:\users\lib-603\downloads\lab 13-20191215t122440z-001\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576361946 c:\users\lib-603\downloads\lab 13-20191215t122440z-001\lab 13\binarysearchtree.h
+	"quetype.h"
+
+1576361946 c:\users\lib-603\downloads\lab 13-20191215t122440z-001\lab 13\quetype.h
+
+1576361946 c:\users\lib-603\downloads\lab 13-20191215t122440z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576361946 source:c:\users\lib-603\downloads\lab 13-20191215t122440z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576363030 source:c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576363032 c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\binarysearchtree.h
+	"quetype.h"
+
+1576363032 c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\quetype.h
+
+1576363032 c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1576415038 source:c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\main.cpp
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+	"quetype.h"
+	<iostream>
+
+1576363030 c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1576363032 source:c:\users\lib 602\downloads\lab 13-20191215t124229z-001\lab 13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
